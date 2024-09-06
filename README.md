@@ -47,9 +47,9 @@ Gráficos interativos gerados com Plotly não são exibidos diretamente no GitHu
 Avaliação do Modelo
 O modelo de regressão linear foi avaliado com os seguintes resultados:
 
-R²: 0.82
-Erro Absoluto Médio (MAE): 581.73
-Raiz do Erro Quadrático Médio (RMSE): 686.90
+R²: 0.93
+Erro Absoluto Médio (MAE): 1588.83
+Raiz do Erro Quadrático Médio (RMSE): 1995.59
 Essas métricas indicam que o modelo tem uma boa capacidade de explicar as variações do PIB per capita nos dados de teste.
 
 
